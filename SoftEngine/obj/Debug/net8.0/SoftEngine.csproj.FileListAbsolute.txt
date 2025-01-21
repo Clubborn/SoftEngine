@@ -1,0 +1,14 @@
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/bin/Debug/net8.0/SoftEngine
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/bin/Debug/net8.0/SoftEngine.deps.json
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/bin/Debug/net8.0/SoftEngine.runtimeconfig.json
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/bin/Debug/net8.0/SoftEngine.dll
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/bin/Debug/net8.0/SoftEngine.pdb
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/SoftEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/SoftEngine.AssemblyInfoInputs.cache
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/SoftEngine.AssemblyInfo.cs
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/SoftEngine.csproj.CoreCompileInputs.cache
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/SoftEngine.dll
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/refint/SoftEngine.dll
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/SoftEngine.pdb
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/SoftEngine.genruntimeconfig.cache
+/Users/umutdalgic/RiderProjects/SoftEngine/SoftEngine/obj/Debug/net8.0/ref/SoftEngine.dll
